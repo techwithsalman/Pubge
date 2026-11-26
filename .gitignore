@@ -1,0 +1,23 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python runtime and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Workspace temporary analysis and extraction artifacts
+*.py
+orig_chunks/
+project_screenshots/
+Salmankhan/index_transformed_head.html
+*_raw.html
+*_clean.html
+extracted_*
+
+# Local Environment & Server PIDs
+.env
+.env.local
